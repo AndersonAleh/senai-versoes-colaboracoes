@@ -11,9 +11,11 @@ GitHub.com
 
 ### Ferramentas utilizadas
 ...
+
 GitBash
 GitHub
 VSCode
+
 ...
 
 #### Versão do Java 
